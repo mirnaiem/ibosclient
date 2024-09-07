@@ -1,0 +1,51 @@
+
+[
+ {
+   "id": 1,
+   "image": "https://i.ibb.co/4SG54Lq/Image-1.png",
+   "name": "Ergonomic Office Chair",
+   "description": "A comfortable ergonomic chair with adjustable height and lumbar support.",
+   "price": 149.99,
+   "category": "Side Chair"
+ },
+ {
+   "id": 2,
+   "image": "https://i.ibb.co/d0RNqn3/Image-2.png",
+   "name": "Modern Dining Chair",
+   "description": "A stylish dining chair with a modern design and wooden legs.",
+   "price": 89.99,
+   "category": "Side Chair"
+ },
+ {
+   "id": 3,
+   "image": "https://i.ibb.co/X7fbCGz/Image-3.png",
+   "name": "Leather Recliner",
+   "description": "A luxurious leather recliner chair with adjustable reclining positions.",
+   "price": 299.99,
+   "category": "Lounge Chair"
+ },
+ {
+   "id": 4,
+   "image": "https://i.ibb.co/Rc2KcBG/Image-4.png",
+   "name": "Classic Rocking Chair",
+   "description": "A traditional wooden rocking chair, perfect for relaxing.",
+   "price": 120.00,
+   "category": "Rocking Chair"
+ },
+ {
+   "id": 5,
+   "image": "https://i.ibb.co/gRrbzkg/Image.png",
+   "name": "Leather Lounge Chair",
+   "description": "A comfortable leather lounge chair with an elegant design.",
+   "price": 250.00,
+   "category": "Lounge Chair"
+ },
+ {
+   "id": 6,
+   "image": "https://i.ibb.co/WF1qNg4/rocking-chair-with-padded-seat-1.png",
+   "name": "Wooden Side Chair",
+   "description": "A minimalistic wooden side chair, perfect for dining or living areas.",
+   "price": 75.00,
+   "category": "Side Chair"
+ }
+]
