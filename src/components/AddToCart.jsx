@@ -9,7 +9,7 @@ const AddToCart = () => {
 
   useEffect(() => {
     if (user?.email) {
-      fetch(`http://localhost:3000/carts/${user.email}`)
+      fetch(`https://ibosserver-xqsu.vercel.app/carts/${user.email}`)
         .then((res) => res.json())
         .then((data) => setCartInfo(data))
         .catch((error) => console.error('Error fetching cart data:', error));

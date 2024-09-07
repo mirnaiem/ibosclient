@@ -17,7 +17,7 @@ const ProductCart = ({product}) => {
    product: item 
  };
  
-  fetch('http://localhost:3000/carts', {
+  fetch('https://ibosserver-xqsu.vercel.app/carts', {
    method: "POST",
    headers: {
      "Content-type": "application/json"

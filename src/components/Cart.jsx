@@ -12,7 +12,7 @@ const Cart = ({ cart, onQuantityChange, onRemove }) => {
   };
 
   const handleRemove = () => {
-    fetch(`http://localhost:3000/carts/${_id}`, {
+    fetch(`https://ibosserver-xqsu.vercel.app/carts/${_id}`, {
       method: 'DELETE',
     })
       .then((res) => {

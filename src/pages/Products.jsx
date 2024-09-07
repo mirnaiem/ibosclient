@@ -4,7 +4,7 @@ import ProductCart from "../components/ProductCart";
 const Products = () => {
  const [products,setProducts]=useState([]);
  useEffect(()=>{
-fetch("http://localhost:3000/products")
+fetch("https://ibosserver-xqsu.vercel.app/products")
 .then((res)=>res.json())
 .then((data)=>setProducts(data))
  },[])
